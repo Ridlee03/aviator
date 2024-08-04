@@ -1,4 +1,4 @@
-<h3 align=center>
+<h3 align=aviator>
 <img src='https://i.ibb.co/Y72Yyfr/Picsart-24-05-04-22-40-56-935.jpg'>
 </h3>
 <h3 align=center>
